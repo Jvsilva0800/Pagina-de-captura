@@ -13,7 +13,7 @@ body{
 }
 
 header{
-    background-color: rgb(19, 233, 233);
+    background-color: #30afd1;
     text-align: center;
     padding: 15px;
 }
@@ -62,7 +62,7 @@ input{
 }
 #inscreva-se{
     width: 97%;
-    background-color: rgb(19, 233, 233);
+    background-color: #30afd1;
     border: none;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -72,4 +72,26 @@ input{
 #inscreva-se:hover{
     cursor: pointer;
 }
-    
+
+footer{
+    background-color: #1d2020;
+    padding: 20px;
+}
+section{
+    width: 800px;
+    overflow: hidden;
+    margin: auto;
+    padding: 20px;
+    transform: translateX(15%);
+}
+.face{
+    float: left;
+    margin-right: 50px;
+}
+.discription{
+    width: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    line-height: 1.5em;
+}
+
