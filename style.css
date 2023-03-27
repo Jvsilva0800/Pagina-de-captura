@@ -59,6 +59,8 @@ input{
     margin-top: 10px;
     width: 97%;
     padding: 10px;
+    background: url(./images/arrow.jpg) no-repeat right;
+    background-position: 99.6% 48%;
 }
 #inscreva-se{
     width: 97%;
